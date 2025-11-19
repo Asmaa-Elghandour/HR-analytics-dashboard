@@ -74,7 +74,7 @@ Use slicers and filters for deeper insights
 
 📸 Screenshots
 *Main overview of workforce trends and KPIs*
-![Overview Dashboard](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/OverView.png)
+![Overview Dashboard](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Overview.png)
 *Employee demographics: age, gender, marital status, salary, and ethnicity*
 ![Demographics Page](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Demographics.png)
 *Satisfaction and performance indicators*
