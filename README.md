@@ -73,14 +73,11 @@ Navigate through dashboard pages using the tabs
 Use slicers and filters for deeper insights
 
 📸 Screenshots
-
+*Main overview of workforce trends and KPIs*
 ![Overview Dashboard](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/OverView.png)
+*Employee demographics: age, gender, marital status, salary, and ethnicity*
 ![Demographics Page](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Demographics.png)
+*Satisfaction and performance indicators*
 ![Performance Tracker](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Performance%20Tracker.png)
+*Attrition summary and breakdown by tenure, role, and travel*
 ![Attrition Overview](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Attrition.png)
-
-Satisfaction and performance indicators
-
-Attrition Overview: https://github.com/Asmaa-Elghandour/HR-analytics-dashboard/blob/main/ScreenShots/Attrition.png
-
-Attrition summary and breakdown by tenure, role, and travel
