@@ -3,6 +3,7 @@
 A professional, interactive HR Analytics solution designed to support strategic workforce planning, enhance employee experience, and reduce organizational attrition.
 
 
+
 🌟 PROJECT OVERVIEW
 
 This Power BI dashboard provides decision-focused HR insights, helping organizations:
