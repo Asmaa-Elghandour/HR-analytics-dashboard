@@ -1,60 +1,61 @@
-📊 Atlas Labs – HR Analytics Dashboard (Power BI)
+# 📊 ATLAS LABS – HR ANALYTICS DASHBOARD (Power BI)
 
-A professional, interactive HR Analytics solution designed to support strategic workforce planning, enhance employee experience, and reduce organizational attrition.
+A professional, interactive HR Analytics solution designed to **support strategic workforce planning, enhance employee experience, and reduce organizational attrition**.
 
-🌟 Project Overview
+---
 
-This Power BI dashboard provides decision-focused HR insights, helping organizations monitor workforce dynamics, identify attrition risks, and track employee satisfaction trends.
+## 🌟 PROJECT OVERVIEW
 
-Key HR capabilities include:
+This Power BI dashboard provides **decision-focused HR insights**, helping organizations:
 
-Workforce size and hiring activity tracking
+- Monitor workforce dynamics  
+- Identify attrition risks  
+- Track employee satisfaction trends  
 
-Demographic distribution analysis
+**Key HR capabilities include:**
 
-Performance and satisfaction monitoring
+- Workforce size and hiring activity tracking  
+- Demographic distribution analysis  
+- Performance and satisfaction monitoring  
+- Attrition risk identification  
 
-Attrition risk identification
+The dashboard is **simple, intuitive, and ready for real organizational use**.
 
-The dashboard is simple, intuitive, and ready for real organizational use.
+---
 
-💡 Key Insights
+## 💡 KEY INSIGHTS
 
-Attrition Rate: 16.1% — highlights significant turnover risk
+- **Attrition Rate:** 16.1% — highlights significant turnover risk  
+- **Tenure Impact:** Highest exits occur in early-tenure employees (1–3 years)  
+- **Job Role:** Sales roles show higher attrition compared to technical roles  
+- **Travel Frequency:** Frequent travelers are more likely to leave  
+- **Satisfaction:** Low environment satisfaction and work-life balance correlate with higher attrition  
 
-Tenure Impact: Highest exits occur in early-tenure employees (1–3 years)
+These insights help HR teams **focus on retention strategies and vulnerable employee groups**.
 
-Job Role: Sales roles show higher attrition compared to technical roles
+---
 
-Travel Frequency: Frequent travelers are more likely to leave
+## 🛠️ TOOLS & TECHNOLOGIES
 
-Satisfaction: Low Environment Satisfaction and Work-Life Balance correlate with higher attrition
+- **Power BI Desktop** – Interactive dashboards & KPIs  
+- **Power Query (M)** – Data cleaning and preparation  
+- **DAX** – Measures, ratios, and time intelligence calculations  
+- **Data Modeling** – Clean star-schema design  
 
-These insights help HR teams focus on retention strategies and vulnerable employee groups.
+---
 
-🛠️ Tools & Technologies
-
-Power BI Desktop – Interactive dashboards & KPIs
-
-Power Query (M) – Data cleaning and preparation
-
-DAX – Measures, ratios, and time intelligence calculations
-
-Data Modeling – Clean star-schema design
-
-📁 Report Structure
+## 📁 REPORT STRUCTURE
 
 The dashboard contains four interactive pages:
 
-Overview – Workforce KPIs, hiring trends, active vs inactive employees
+1. **Overview** – Workforce KPIs, hiring trends, active vs inactive employees  
+2. **Demographics** – Age, gender, marital status, salary, and ethnicity analysis  
+3. **Performance Tracker** – Satisfaction scores and performance indicators  
+4. **Attrition Analysis** – Attrition by tenure, job role, travel, overtime, and at-risk groups  
 
-Demographics – Age, gender, marital status, salary, and ethnicity analysis
+---
 
-Performance Tracker – Satisfaction scores and performance indicators
-
-Attrition Analysis – Attrition by tenure, job role, travel, overtime, and at-risk groups
-
-🚀 Getting Started
+## 🚀 GETTING STARTED
 
 1. Download the `.pbix` file  
 2. Open with **Power BI Desktop**  
@@ -62,16 +63,22 @@ Attrition Analysis – Attrition by tenure, job role, travel, overtime, and at-r
 4. Navigate through dashboard pages using the tabs  
 5. Use slicers and filters for deeper insights  
 
-📸 Screenshots
-https://github.com/Asmaa-Elghandour/HR-analytics-dashboard/blob/main/ScreenShots/OverView.png
-  
-*Main overview of workforce trends and KPIs*
+---
 
-https://github.com/Asmaa-Elghandour/HR-analytics-dashboard/blob/main/ScreenShots/Demographics.png
-*Employee demographics: age, gender, marital status, salary, and ethnicity*
+## 📸 SCREENSHOTS
 
-https://github.com/Asmaa-Elghandour/HR-analytics-dashboard/blob/main/ScreenShots/Performance%20Tracker.png
-*Satisfaction and performance indicators*
+**Main overview of workforce trends and KPIs**  
+![Overview Dashboard](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Overview.png)
 
-https://github.com/Asmaa-Elghandour/HR-analytics-dashboard/blob/main/ScreenShots/Attrition.png 
-*Attrition summary and breakdown by tenure, role, and travel*
+**Employee demographics: age, gender, marital status, salary, and ethnicity**  
+![Demographics Page](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Demographics.png)
+
+**Satisfaction and performance indicators**  
+![Performance Tracker](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Performance%20Tracker.png)
+
+**Attrition summary and breakdown by tenure, role, and travel**  
+![Attrition Overview](https://raw.githubusercontent.com/Asmaa-Elghandour/HR-analytics-dashboard/main/ScreenShots/Attrition.png)
+
+---
+
+
