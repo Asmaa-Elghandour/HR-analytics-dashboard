@@ -1,8 +1,8 @@
-📊 Atlas Labs – HR Analytics Dashboard (Power BI)
+📊 ATLAS LABS – HR ANALYTICS DASHBOARD (Power BI)
 
 A professional, interactive HR Analytics solution designed to support strategic workforce planning, enhance employee experience, and reduce organizational attrition.
 
-🌟 Project Overview
+🌟 PROJECT OVERVIEW
 
 This Power BI dashboard provides decision-focused HR insights, helping organizations:
 
@@ -24,7 +24,7 @@ Attrition risk identification
 
 The dashboard is simple, intuitive, and ready for real organizational use.
 
-💡 Key Insights
+💡 KEY INSIGHTS
 
 Attrition Rate: 16.1% — highlights significant turnover risk
 
@@ -38,7 +38,7 @@ Satisfaction: Low environment satisfaction and work-life balance correlate with 
 
 These insights help HR teams focus on retention strategies and vulnerable employee groups.
 
-🛠️ Tools & Technologies
+🛠️ TOOLS & TECHNOLOGIES
 
 Power BI Desktop – Interactive dashboards & KPIs
 
@@ -48,7 +48,7 @@ DAX – Measures, ratios, and time intelligence calculations
 
 Data Modeling – Clean star-schema design
 
-📁 Report Structure
+📁 REPORT STRUCTURE
 
 The dashboard contains four interactive pages:
 
@@ -60,7 +60,7 @@ Performance Tracker – Satisfaction scores and performance indicators
 
 Attrition Analysis – Attrition by tenure, job role, travel, overtime, and at-risk groups
 
-🚀 Getting Started
+🚀 GETTING STARTED
 
 Download the .pbix file
 
@@ -71,6 +71,9 @@ Refresh the dataset if needed
 Navigate through dashboard pages using the tabs
 
 Use slicers and filters for deeper insights
+
+📸 SCREENSHOTS
+
 
 📸 Screenshots
 *Main overview of workforce trends and KPIs*
