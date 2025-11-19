@@ -1,4 +1,4 @@
-# 📊 ATLAS LABS–HR ANALYTICS DASHBOARD(Power BI)
+# 📊 ATLAS LABS – HR ANALYTICS DASHBOARD(Power BI)
 
 A professional, interactive HR Analytics solution designed to **support strategic workforce planning, enhance employee experience, and reduce organizational attrition**.
 
